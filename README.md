@@ -21,7 +21,11 @@ The primary purpose of OccuCount is to effectively manage and track the store's 
 
 A video demo of the project is provided:
 
-![](https://lourencofsilva.github.io/demo/occucount/demo.mp4)
+
+
+https://github.com/lourencofsilva/OccuCount/assets/51058594/57b72548-d66b-49fa-9128-e5f403debc9b
+
+
 ## License
 
 ```
