@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Pods/FirebaseAuth/Firebase" />
+      <excludeFolder url="file://$MODULE_DIR$/Pods/FirebaseCore/Firebase" />
+      <excludeFolder url="file://$MODULE_DIR$/Pods/GoogleDataTransportCCTSupport/GoogleDataTransport" />
+      <excludeFolder url="file://$MODULE_DIR$/Pods/gRPC-C++/include/grpc" />
+      <excludeFolder url="file://$MODULE_DIR$/Pods/Local Podspecs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

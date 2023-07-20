@@ -1,0 +1,159 @@
+
+/* Class = "UILabel"; text = "Run as Display"; ObjectID = "0oc-Pe-8hT"; */
+"0oc-Pe-8hT.text" = "Utilizar como Monitor";
+
+/* Class = "UILabel"; text = "Click on the text below to start running this device as a display"; ObjectID = "1fD-zT-iAy"; */
+"1fD-zT-iAy.text" = "Clique no texto abaixo para começar a utilizar este dispositivo como monitor.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "2qV-hU-iHo"; */
+"2qV-hU-iHo.normalTitle" = "Iniciar Sessão";
+
+/* Class = "UILabel"; text = "Occupation Counter"; ObjectID = "4VG-W7-0cj"; */
+"4VG-W7-0cj.text" = "Contador";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "5SB-8J-UnG"; */
+"5SB-8J-UnG.normalTitle" = "Senha Esquecida?";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "5Tn-Mf-zpb"; */
+"5Tn-Mf-zpb.normalTitle" = "+";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "6fv-mG-fGk"; */
+"6fv-mG-fGk.title" = "Registar";
+
+/* Class = "UIViewController"; title = "Account View"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "Conta";
+
+/* Class = "UIViewController"; title = "Configuration View"; ObjectID = "9pv-A4-QxB"; */
+"9pv-A4-QxB.title" = "Configuração";
+
+/* Class = "UINavigationItem"; title = "OccuCount"; ObjectID = "Bb9-7T-DLy"; */
+"Bb9-7T-DLy.title" = "OccuCount";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "BgB-r2-csF"; */
+"BgB-r2-csF.text" = "Email:";
+
+/* Class = "UILabel"; text = "Current Account Details:"; ObjectID = "Chu-zA-rCj"; */
+"Chu-zA-rCj.text" = "Detalhes de Conta:";
+
+/* Class = "UIButton"; normalTitle = "LOGOUT"; ObjectID = "Cus-O6-BaO"; */
+"Cus-O6-BaO.normalTitle" = "Terminar";
+
+/* Class = "UINavigationItem"; title = "OccuCount"; ObjectID = "E7T-5T-FG4"; */
+"E7T-5T-FG4.title" = "OccuCount";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Ecb-j1-3Es"; */
+"Ecb-j1-3Es.normalTitle" = "Iniciar Sessão";
+
+/* Class = "UILabel"; text = "Configuration"; ObjectID = "FYf-2l-BJD"; */
+"FYf-2l-BJD.text" = "Configuração";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "G2h-PW-cPX"; */
+"G2h-PW-cPX.text" = "Nome: ";
+
+/* Class = "UITextField"; placeholder = "Verify Password"; ObjectID = "HTN-yJ-pCi"; */
+"HTN-yJ-pCi.placeholder" = "Verificar Senha";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Joi-gM-yst"; */
+"Joi-gM-yst.placeholder" = "Senha";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "KEp-Gx-6dg"; */
+"KEp-Gx-6dg.title" = "Conta";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Nyn-pc-foh"; */
+"Nyn-pc-foh.text" = "Nome";
+
+/* Class = "UIButton"; normalTitle = "Start Display"; ObjectID = "PkR-zE-nWv"; */
+"PkR-zE-nWv.normalTitle" = "Começar Monitor";
+
+/* Class = "UILabel"; text = "Store Name:"; ObjectID = "TAq-fh-fkK"; */
+"TAq-fh-fkK.text" = "Nome de Loja:";
+
+/* Class = "UILabel"; text = "Maximum Occupation:"; ObjectID = "U9J-4d-Kf5"; */
+"U9J-4d-Kf5.text" = "Ocupação Máxima:";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Uje-fC-e8A"; */
+"Uje-fC-e8A.normalTitle" = "Registar";
+
+/* Class = "UIViewController"; title = "Display Actual View"; ObjectID = "UkG-B4-cpx"; */
+"UkG-B4-cpx.title" = "Monitor Actual";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "VI9-sg-Qzh"; */
+"VI9-sg-Qzh.text" = "Email";
+
+/* Class = "UILabel"; text = "Display Language:"; ObjectID = "VKi-t0-oo7"; */
+"VKi-t0-oo7.text" = "Línguagem:";
+
+/* Class = "UIButton"; normalTitle = "Reset to Zero"; ObjectID = "WHK-5J-4Sg"; */
+"WHK-5J-4Sg.normalTitle" = "Repor Ocupação";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "ZL7-qt-Ec7"; */
+"ZL7-qt-Ec7.normalTitle" = "-";
+
+/* Class = "UITabBarItem"; title = "Display"; ObjectID = "aWV-W6-y8L"; */
+"aWV-W6-y8L.title" = "Monitor";
+
+/* Class = "UILabel"; text = "N"; ObjectID = "aXB-VU-o7A"; */
+"aXB-VU-o7A.text" = "N";
+
+/* Class = "UINavigationItem"; title = "OccuCount"; ObjectID = "baC-jS-TBK"; */
+"baC-jS-TBK.title" = "OccuCount";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "bgg-GW-Oyo"; */
+"bgg-GW-Oyo.text" = "/";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "cs0-Qa-mfl"; */
+"cs0-Qa-mfl.title" = "Inicar Sessão";
+
+/* Class = "UILabel"; text = "Connection Lost"; ObjectID = "csE-EV-t9O"; */
+"csE-EV-t9O.text" = "Conexão Perdida";
+
+/* Class = "UIViewController"; title = "Counter View"; ObjectID = "dmB-VV-t2N"; */
+"dmB-VV-t2N.title" = "Contador";
+
+/* Class = "UISegmentedControl"; do6-EC-E0L.segmentTitles[0] = "English"; ObjectID = "do6-EC-E0L"; */
+"do6-EC-E0L.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; do6-EC-E0L.segmentTitles[1] = "Português"; ObjectID = "do6-EC-E0L"; */
+"do6-EC-E0L.segmentTitles[1]" = "Português";
+
+/* Class = "UIButton"; normalTitle = "Register Now!"; ObjectID = "fSo-iF-lJm"; */
+"fSo-iF-lJm.normalTitle" = "Registar!";
+
+/* Class = "UILabel"; text = "Waiting For Connection"; ObjectID = "gJx-uF-bK1"; */
+"gJx-uF-bK1.text" = "A Conectar";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "h1I-si-G8j"; */
+"h1I-si-G8j.placeholder" = "Endereço de Email";
+
+/* Class = "UIViewController"; title = "Display View"; ObjectID = "kBE-q0-lUO"; */
+"kBE-q0-lUO.title" = "Monitor";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "mgl-7U-7y7"; */
+"mgl-7U-7y7.placeholder" = "Senha";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "oMG-lU-E5A"; */
+"oMG-lU-E5A.text" = "A";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "oeb-xV-rmO"; */
+"oeb-xV-rmO.text" = "N/A";
+
+/* Class = "UITabBarItem"; title = "Configuration"; ObjectID = "puC-Bv-Hfl"; */
+"puC-Bv-Hfl.title" = "Configuração";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "sHB-bj-XcT"; */
+"sHB-bj-XcT.placeholder" = "Endereço de Email";
+
+/* Class = "UITextField"; placeholder = "Name / Organization"; ObjectID = "uFq-0R-SQh"; */
+"uFq-0R-SQh.placeholder" = "Nome / Organização";
+
+/* Class = "UILabel"; text = "Welcome to Store"; ObjectID = "uhX-Nv-4bo"; */
+"uhX-Nv-4bo.text" = "Bem-Vindo(a)";
+
+/* Class = "UILabel"; text = "Account Management"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Conta";
+
+/* Class = "UITabBarItem"; title = "Counter"; ObjectID = "zcB-SN-TJS"; */
+"zcB-SN-TJS.title" = "Contador";
+
+/* Class = "UINavigationItem"; title = "OccuCount"; ObjectID = "zra-0Q-xxj"; */
+"zra-0Q-xxj.title" = "OccuCount";

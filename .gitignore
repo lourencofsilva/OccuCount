@@ -1,0 +1,20 @@
+# Xcode
+.DS_Store
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserdatad/
+
+# Swift Package Manager
+Packages/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Temporary files
+*.swp
+*~
+
+# Sensitive or user-specific files
+config.plist
+secrets.json
