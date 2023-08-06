@@ -8,7 +8,7 @@ The primary purpose of OccuCount is to effectively manage and track the store's 
 
 
 
-![](https://lourencofsilva.github.io/demo/occucount/logo.png)
+![](https://www.lourencofsilva.com/demo/occucount/logo.png)
 ## Tech Stack
 
 **Client:** Swift
